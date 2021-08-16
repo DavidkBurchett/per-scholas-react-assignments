@@ -18,5 +18,9 @@
   "homepage": "https://github.com/DavidkBurchett/per-scholas-react-assignments#readme",
   "dependencies": {
     "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.1",
+    "nodemon": "^2.0.12"
   }
 }
