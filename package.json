@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DavidkBurchett/per-scholas-react-assignments/issues"
   },
-  "homepage": "https://github.com/DavidkBurchett/per-scholas-react-assignments#readme"
+  "homepage": "https://github.com/DavidkBurchett/per-scholas-react-assignments#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
 }
