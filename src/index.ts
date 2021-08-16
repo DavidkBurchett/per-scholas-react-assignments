@@ -1,4 +1,4 @@
-function helloMessage(name) {
+function helloMessage(name: string) {
     return 'hello, world! My name is ' + name;
 }
 
